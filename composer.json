@@ -1,0 +1,25 @@
+{
+    "name": "sram/hello-world-php",
+    "description": "Composer package",
+    "type": "composer-plugin",
+    "license": "test",
+    "authors": [
+		{
+            "name": "Sram",
+            "email": "parashuram.sram@gmail.com"
+        },
+        {
+            "name": "Ram",
+            "email": "parashuramv894@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+	}
+}
