@@ -2,7 +2,7 @@
     "name": "sram/hello-world-php",
     "description": "Composer package",
     "type": "composer-plugin",
-    "license": "test",
+    "license": "proprietary",
     "authors": [
 		{
             "name": "Sram",
